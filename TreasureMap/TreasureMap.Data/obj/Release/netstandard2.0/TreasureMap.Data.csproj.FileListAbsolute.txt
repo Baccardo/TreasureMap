@@ -1,0 +1,8 @@
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Data\bin\Release\netstandard2.0\TreasureMap.Data.deps.json
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Data\bin\Release\netstandard2.0\TreasureMap.Data.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Data\bin\Release\netstandard2.0\TreasureMap.Data.pdb
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Data\obj\Release\netstandard2.0\TreasureMap.Data.csprojAssemblyReference.cache
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Data\obj\Release\netstandard2.0\TreasureMap.Data.AssemblyInfoInputs.cache
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Data\obj\Release\netstandard2.0\TreasureMap.Data.AssemblyInfo.cs
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Data\obj\Release\netstandard2.0\TreasureMap.Data.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Data\obj\Release\netstandard2.0\TreasureMap.Data.pdb

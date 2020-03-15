@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TreasureMap.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "TreasureMap.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TreasureMap.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TreasureMap.Business.dll": {}
+        }
+      },
+      "TreasureMap.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TreasureMap.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TreasureMap.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TreasureMap.Business/1.0.0": {
+      "type": "project",
+      "path": "../TreasureMap.Business/TreasureMap.Business.csproj",
+      "msbuildProject": "../TreasureMap.Business/TreasureMap.Business.csproj"
+    },
+    "TreasureMap.Data/1.0.0": {
+      "type": "project",
+      "path": "../TreasureMap.Data/TreasureMap.Data.csproj",
+      "msbuildProject": "../TreasureMap.Data/TreasureMap.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TreasureMap.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Baccardo\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Baccardo\\source\\repos\\TreasureMap\\TreasureMap.Application\\TreasureMap.Application.csproj",
+      "projectName": "TreasureMap.Application",
+      "projectPath": "C:\\Users\\Baccardo\\source\\repos\\TreasureMap\\TreasureMap.Application\\TreasureMap.Application.csproj",
+      "packagesPath": "C:\\Users\\Baccardo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Baccardo\\source\\repos\\TreasureMap\\TreasureMap.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Baccardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Baccardo\\source\\repos\\TreasureMap\\TreasureMap.Business\\TreasureMap.Business.csproj": {
+              "projectPath": "C:\\Users\\Baccardo\\source\\repos\\TreasureMap\\TreasureMap.Business\\TreasureMap.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

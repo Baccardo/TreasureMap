@@ -1,0 +1,16 @@
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Application.exe
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Application.deps.json
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Application.runtimeconfig.json
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Application.runtimeconfig.dev.json
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Application.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Application.pdb
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Business.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Data.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Business.pdb
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\bin\Debug\netcoreapp3.1\TreasureMap.Data.pdb
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\obj\Debug\netcoreapp3.1\TreasureMap.Application.csprojAssemblyReference.cache
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\obj\Debug\netcoreapp3.1\TreasureMap.Application.AssemblyInfoInputs.cache
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\obj\Debug\netcoreapp3.1\TreasureMap.Application.AssemblyInfo.cs
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\obj\Debug\netcoreapp3.1\TreasureMap.Application.csproj.CopyComplete
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\obj\Debug\netcoreapp3.1\TreasureMap.Application.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Application\obj\Debug\netcoreapp3.1\TreasureMap.Application.pdb

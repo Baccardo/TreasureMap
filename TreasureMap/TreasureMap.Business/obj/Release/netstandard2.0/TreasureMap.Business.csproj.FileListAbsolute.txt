@@ -1,0 +1,11 @@
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\bin\Release\netstandard2.0\TreasureMap.Business.deps.json
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\bin\Release\netstandard2.0\TreasureMap.Business.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\bin\Release\netstandard2.0\TreasureMap.Business.pdb
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\bin\Release\netstandard2.0\TreasureMap.Data.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\bin\Release\netstandard2.0\TreasureMap.Data.pdb
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\obj\Release\netstandard2.0\TreasureMap.Business.csprojAssemblyReference.cache
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\obj\Release\netstandard2.0\TreasureMap.Business.AssemblyInfoInputs.cache
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\obj\Release\netstandard2.0\TreasureMap.Business.AssemblyInfo.cs
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\obj\Release\netstandard2.0\TreasureMap.Business.csproj.CopyComplete
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\obj\Release\netstandard2.0\TreasureMap.Business.dll
+C:\Users\Baccardo\source\repos\TreasureMap\TreasureMap.Business\obj\Release\netstandard2.0\TreasureMap.Business.pdb
